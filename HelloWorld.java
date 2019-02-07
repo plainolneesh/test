@@ -23,6 +23,7 @@ public class HelloWorld {
 
         System.out.println("Then you said: " + newStatement);
 
+        System.out.println("The end");
 
     }
 }
